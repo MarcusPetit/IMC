@@ -1,0 +1,12 @@
+body{
+    margin: 0 auto;
+    background-color: blue;
+    background: blue;
+}
+.test{
+    width: 140px;
+    height: 140px;
+    background: blue;
+    font-size: large;
+    font-style: italic;
+}
